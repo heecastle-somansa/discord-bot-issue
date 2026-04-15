@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "id": "gamemeca_issue",
+      "name": "게임메카",
+      "icon": "🎮",
+      "homepage": "https://www.gamemeca.com",
+      "url": "https://www.gamemeca.com/rss.php",
+      "crawler_type": "rss",
+      "color": 3066993,
+      "max_posts_per_run": 5,
+      "lookback_hours": 7,
+      "enabled": true
+    },
+    {
+      "id": "ruliweb_issue",
+      "name": "루리웹",
+      "icon": "🕹️",
+      "homepage": "https://www.ruliweb.com",
+      "url": "https://feeds.feedburner.com/ruliweb",
+      "crawler_type": "rss",
+      "color": 15105570,
+      "max_posts_per_run": 5,
+      "lookback_hours": 7,
+      "enabled": true
+    }
+  ]
+}
